@@ -1,0 +1,14 @@
+{
+  "name": "paging-with-node-and-bacon-ipsum",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node example.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "q": "^1.4.1"
+  }
+}
